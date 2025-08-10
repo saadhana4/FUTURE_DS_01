@@ -7,6 +7,7 @@ This repository contains an interactive Power BI dashboard built using the Super
 It visualizes sales, profit, and order trends to provide actionable business insights.
 
 
+
 📂 Files in this Repository
 
 task1.pbix → Power BI dashboard file (open in Power BI Desktop).
@@ -14,6 +15,7 @@ task1.pbix → Power BI dashboard file (open in Power BI Desktop).
 superstore.xls.zip → Compressed dataset used for analysis.
 
 dashboard.jpg → Screenshot/preview of the dashboard.
+
 
 
 🔍 Dashboard Highlights
@@ -29,6 +31,7 @@ Regional Performance – Sales and profit by state/city.
 Interactive Filters – Time period, product category, and segment filters.
 
 
+
 📊 How to Use
 
 Download and extract the superstore.xls.zip file.
@@ -42,11 +45,13 @@ When prompted, update the data source path to the extracted .xls file.
 Explore and interact with the dashboard visuals.
 
 
+
 🛠 Tools & Technologies
 
 Microsoft Power BI – For dashboard creation and visualization.
 
 Microsoft Excel – For dataset storage.
+
 
 
 🚀 Future Improvements
